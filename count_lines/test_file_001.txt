@@ -1,0 +1,6 @@
+A very simple
+file to count
+how many
+
+lines are
+in a file.
